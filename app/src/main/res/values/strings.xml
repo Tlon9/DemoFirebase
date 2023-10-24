@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_insertion">InsertionActivity</string>
+    <string name="title_activity_fetching">FetchingActivity</string>
+    <string name="title_activity_employee_details">EmployeeDetailsActivity</string>
+</resources>
